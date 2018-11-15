@@ -15,3 +15,5 @@
 [Unity]15.점핑 올빼미 2D 게임제작 - 움직이는 하늘과 참새 만들기 => (https://goo.gl/6JCuAT)
 
 [Unity]16.점핑 올빼미 2D 게임제작 - 주인공 올빼미 만들기 => (https://goo.gl/4pXfHx)
+
+[Unity]17.점핑 올빼미 2D 게임제작 - 게임 매니저 만들기 => (https://goo.gl/uEs2dr)
