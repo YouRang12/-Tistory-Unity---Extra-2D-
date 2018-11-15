@@ -12,4 +12,4 @@
 
 [Unity]03.로그라이크2D따라하기- 스크립트 다루기 => (https://goo.gl/pqudNu)
 
-[Unity]15.점핑 올빼미 2D 게임제작 - 움직이는 하늘과 참새 만들기 => (https://goo.gl/3p7wv2)
+[Unity]15.점핑 올빼미 2D 게임제작 - 움직이는 하늘과 참새 만들기 => (https://goo.gl/6JCuAT)
