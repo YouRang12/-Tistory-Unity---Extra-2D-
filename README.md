@@ -47,3 +47,5 @@
 [Unity]20.점핑 올빼미 2D 게임제작 - Button의 Event 처리
 
 [Unity]21.점핑 올빼미 2D 게임제작 - Game 빌드하기
+
+[Unity]22.RPG 튜토리얼 - 플레이어 이동하기 => (https://goo.gl/Gv5vUi)
