@@ -50,4 +50,4 @@
 
 [Unity]22.RPG 튜토리얼 - 플레이어 이동하기 => (https://goo.gl/Gv5vUi)
 
-[Unity]23.RPG 튜토리얼 - UI(캐릭터, 체력, 마나) 만들기 => (https://goo.gl/Rh7m81)
+[Unity]23.RPG 튜토리얼 - UI(캐릭터, 체력, 마나) 만들기 => (https://goo.gl/ifKtpR)
