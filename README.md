@@ -53,3 +53,5 @@
 [Unity]23.RPG 튜토리얼 - UI(캐릭터, 체력, 마나) 만들기 => (https://goo.gl/ifKtpR)
 
 [Unity]24.RPG 튜토리얼 - Blend Tree와 플레이어 공격 => (https://goo.gl/KBQVsZ)
+
+[Unity]25.RPG 튜토리얼 - 스펠 생성과 발사 위치 => (https://goo.gl/5xxdmt)
