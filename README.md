@@ -55,3 +55,5 @@
 [Unity]24.RPG 튜토리얼 - Blend Tree와 플레이어 공격 => (https://goo.gl/KBQVsZ)
 
 [Unity]25.RPG 튜토리얼 - 스펠 생성과 발사 위치 => (https://goo.gl/5xxdmt)
+
+[Unity]26.RPG 튜토리얼 - 공격규칙과 타겟 정하기 => (https://goo.gl/xLXMhi)
