@@ -57,3 +57,5 @@
 [Unity]25.RPG 튜토리얼 - 스펠 생성과 발사 위치 => (https://goo.gl/5xxdmt)
 
 [Unity]26.RPG 튜토리얼 - 공격규칙과 타겟 정하기 => (https://goo.gl/xLXMhi)
+
+[Unity]27.RPG 튜토리얼 - 스킬 퀵 슬롯과 피격 이벤트 => (https://goo.gl/k1Mv1y)
