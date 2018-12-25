@@ -67,3 +67,5 @@
 [Unity]27.RPG 튜토리얼 #6 - 스킬 퀵 슬롯과 피격 이벤트 => (https://goo.gl/k1Mv1y)
 
 [Unity]28.RPG 튜토리얼 #7 - 캐스팅 바 만들기 => (https://goo.gl/C9ATfa)
+
+[Unity]29.RPG튜토리얼 #8 - 적 체력과 처치 => (https://goo.gl/cxMPE3)
