@@ -69,3 +69,5 @@
 [Unity]28.RPG 튜토리얼 #7 - 캐스팅 바 만들기 => (https://goo.gl/C9ATfa)
 
 [Unity]29.RPG튜토리얼 #8 - 적 체력과 처치 => (https://goo.gl/cxMPE3)
+
+[Unity]30.RPG튜토리얼 #9 - 적 UI 만들기 => (https://goo.gl/fihtDg)
