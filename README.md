@@ -48,9 +48,9 @@
 
 [Unity]19.점핑 올빼미 2D 게임제작 #5 - 점수용 UI 만들기 => (http://bit.ly/37wvdT4)
 
-[Unity]20.점핑 올빼미 2D 게임제작 #6 - Button의 Event 처리
+[Unity]20.점핑 올빼미 2D 게임제작 #6 - Button의 Event 처리 => (http://bit.ly/30Z77ht)
 
-[Unity]21.점핑 올빼미 2D 게임제작 #7 - Game 빌드하기
+[Unity]21.점핑 올빼미 2D 게임제작 #7 - Game 빌드하기 => (http://bit.ly/36sYQ6f)
 
 -----------------------------------
 
